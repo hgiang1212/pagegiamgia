@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-
-
 body {
     background: none;
 }
@@ -10,4 +8,5 @@ body {
   font-family: 'Google Sans';
   font-weight: normal;
   padding: 25px 0 80px;
+  color: #646464;
 }
